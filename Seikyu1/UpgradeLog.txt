@@ -1,0 +1,110 @@
+C:\Blog\Samples\CS\Layout\Seikyu1\Seikyu1_2010.csproj を更新しています。C:\Blog\Samples\CS\Layout\Seikyu1\Seikyu1_2010.csproj の更新に成功しました。
+C:\Blog\Samples\CS\Layout\Seikyu1\frmSeikyu.cs を更新しています。C:\Blog\Samples\CS\Layout\Seikyu1\frmSeikyu.cs の更新に成功しました。
+C:\Blog\Samples\CS\Layout\Seikyu1\rptSeikyu.cs を更新しています。C:\Blog\Samples\CS\Layout\Seikyu1\rptSeikyu.cs の更新に成功しました。
+System.Buffers, 4.5.1 を Seikyu1_2010 にインストールしています。
+System.Buffers, 4.5.1 のインストールに成功しました。
+System.Numerics.Vectors, 4.5.0 を Seikyu1_2010 にインストールしています。
+System.Numerics.Vectors, 4.5.0 のインストールに成功しました。
+System.Runtime.CompilerServices.Unsafe, 5.0.0 を Seikyu1_2010 にインストールしています。
+System.Runtime.CompilerServices.Unsafe, 5.0.0 のインストールに成功しました。
+System.ValueTuple, 4.5.0 を Seikyu1_2010 にインストールしています。
+System.ValueTuple, 4.5.0 のインストールに成功しました。
+Portable.BouncyCastle, 1.8.2 を Seikyu1_2010 にインストールしています。
+Portable.BouncyCastle, 1.8.2 のインストールに成功しました。
+DocumentFormat.OpenXml, 2.12.1 を Seikyu1_2010 にインストールしています。
+DocumentFormat.OpenXml, 2.12.1 のインストールに成功しました。
+Microsoft.Bcl.AsyncInterfaces, 5.0.0 を Seikyu1_2010 にインストールしています。
+Microsoft.Bcl.AsyncInterfaces, 5.0.0 のインストールに成功しました。
+System.Threading.Tasks.Extensions, 4.5.4 を Seikyu1_2010 にインストールしています。
+System.Threading.Tasks.Extensions, 4.5.4 のインストールに成功しました。
+System.Text.Encodings.Web, 5.0.1 を Seikyu1_2010 にインストールしています。
+System.Text.Encodings.Web, 5.0.1 のインストールに成功しました。
+System.Memory, 4.5.4 を Seikyu1_2010 にインストールしています。
+System.Memory, 4.5.4 のインストールに成功しました。
+System.Text.Json, 5.0.2 を Seikyu1_2010 にインストールしています。
+System.Text.Json, 5.0.2 のインストールに成功しました。
+Gcef.Data.VBFunctionLib, 3.1.0 を Seikyu1_2010 にインストールしています。
+Gcef.Data.VBFunctionLib, 3.1.0 のインストールに成功しました。
+Gcef.Data.ExpressionInfo, 3.1.0 を Seikyu1_2010 にインストールしています。
+Gcef.Data.ExpressionInfo, 3.1.0 のインストールに成功しました。
+Gcef.Data.DataEngine, 3.1.0 を Seikyu1_2010 にインストールしています。
+Gcef.Data.DataEngine, 3.1.0 のインストールに成功しました。
+GrapeCity.Documents.Imaging.Windows, 5.2.0.802 を Seikyu1_2010 にインストールしています。
+GrapeCity.Documents.Imaging.Windows, 5.2.0.802 のインストールに成功しました。
+GrapeCity.Documents.DX.Windows, 5.2.0.802 を Seikyu1_2010 にインストールしています。
+GrapeCity.Documents.DX.Windows, 5.2.0.802 のインストールに成功しました。
+GrapeCity.Documents.Imaging, 5.2.0.802 を Seikyu1_2010 にインストールしています。
+GrapeCity.Documents.Imaging, 5.2.0.802 のインストールに成功しました。
+GrapeCity.Documents.Pdf, 5.2.0.802 を Seikyu1_2010 にインストールしています。
+GrapeCity.Documents.Pdf, 5.2.0.802 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Rdl, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Rdl, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Rendering, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Rendering, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Drawing.Gdi, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Drawing.Gdi, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Drawing.Gc, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Drawing.Gc, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Document.Drawing.Gc, 3.4.1 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Document.Drawing.Gc, 3.4.1 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Document.Drawing.Gdi, 3.4.1 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Document.Drawing.Gdi, 3.4.1 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Document, 3.4.1 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Document, 3.4.1 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Pdf.Section, 3.4.1 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Pdf.Section, 3.4.1 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Tiff.Section, 3.4.1 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Tiff.Section, 3.4.1 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Image.Page, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Image.Page, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Pdf.Page, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Pdf.Page, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Svg.Page, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Svg.Page, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Html.Page, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Html.Page, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Text.Page, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Text.Page, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Excel.Page, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Excel.Page, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Export.Word.Page, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Export.Word.Page, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Scripting, 3.3.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Scripting, 3.3.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.DataProviders, 2.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.DataProviders, 2.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Core.Svg, 1.0.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Core.Svg, 1.0.2 のインストールに成功しました。
+GrapeCity.DataVisualization.Chart, 0.4.77 を Seikyu1_2010 にインストールしています。
+GrapeCity.DataVisualization.Chart, 0.4.77 のインストールに成功しました。
+GrapeCity.ActiveReports.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Document.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Document.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Chart.ja, 16.1.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Chart.ja, 16.1.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Chart.Win.ja, 16.1.2 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Chart.Win.ja, 16.1.2 のインストールに成功しました。
+GrapeCity.ActiveReports.Export.Image.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Export.Image.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Export.Excel.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Export.Excel.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.SpreadBuilder, 1.0.4 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.SpreadBuilder, 1.0.4 のインストールに成功しました。
+GrapeCity.ActiveReports.Export.Word.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Export.Word.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Export.Html.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Export.Html.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Export.Xml.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Export.Xml.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Export.Pdf.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Export.Pdf.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Viewer.Win.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Viewer.Win.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Design.Win.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Design.Win.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Viewer.Common.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+GrapeCity.ActiveReports.Viewer.Common.ja, 16.1.0 のインストールに成功しました。
+GrapeCity.ActiveReports.Serializer.VS2022.ja, 16.1.0 を Seikyu1_2010 にインストールしています。
+エラー：
+ パッケージ 'GrapeCity.ActiveReports.Serializer.VS2022.ja 16.1.0' をインストールできませんでした。このパッケージを '.NETFramework,Version=v4.6.2' を対象とするプロジェクトにインストールしようとしていますが、そのフレームワークと互換性があるアセンブリ参照またはコンテンツ ファイルがパッケージに含まれていません。詳細については、パッケージの作成者に問い合わせてください。
