@@ -195,7 +195,7 @@ namespace Seikyu
         private void Form1_Load(object sender, System.EventArgs e)
         {
             // データベースからコンボボックスに顧客を設定します。
-            this.OleDbConnection1.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Password=\"\";" +
+            this.OleDbConnection1.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Password=\"\";" +
                 "User ID=Admin;Data Source=" + @"C:\Data\BILL.MDB";
 
             this.OleDbConnection1.Open();
